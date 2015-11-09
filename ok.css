@@ -1,0 +1,25 @@
+header
+{
+  background-image: url(logoredim.jpg);
+}
+
+
+fieldset
+{
+  font-family: inherit;
+  border: 1px solid blue;
+
+}
+
+.op input
+{
+  background-color: lightblue;
+  border-radius: 20%;
+}
+
+#cadre_logo
+{
+  position: absolute;
+  right: 30%;
+  top: 4%;
+}
