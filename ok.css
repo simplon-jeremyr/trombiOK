@@ -3,12 +3,10 @@ header
   background-image: url(logoredim.jpg);
 }
 
-
 fieldset
 {
   font-family: inherit;
   border: 1px solid blue;
-
 }
 
 .op input
@@ -22,4 +20,14 @@ fieldset
   position: absolute;
   right: 30%;
   top: 4%;
+}
+
+body
+{
+  background-color: ;
+}
+
+.bg
+{
+  background-color: lightgrey;
 }
