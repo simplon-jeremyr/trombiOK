@@ -17,7 +17,7 @@ echo "Votre date de naissance : ".$_POST['date_de_naissance'];?><br />
 
 try
 {
-$bdd = new PDO('mysql:host=localhost;dbname=trombinoscope;charset=utf8', 'root', 'jeremy');
+$bdd = new PDO('mysql:host=localhost;dbname=trombinoscope;charset=utf8', 'root', '******');
 }
 
 catch (Exception $e)
